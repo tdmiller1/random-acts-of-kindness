@@ -31,6 +31,12 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "aed9517a-ae12-4078-9bb8-2126207706d7"
+      }
+    },
+    "owner": "tdmiller"
   }
 }
